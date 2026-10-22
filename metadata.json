@@ -1,0 +1,7 @@
+{
+  "name": "NURA VID",
+  "description": "NURA VID - Direct-Response & UGC Video Factory untuk mggnura.ai: Hasilkan video TikTok/Reels 9:16 (POV, UGC Testimoni, Edukasi Parenting) dengan formula Hook-Problem-Solusi-CTA untuk penjualan aplikasi belajar balita usia 2-3 tahun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
